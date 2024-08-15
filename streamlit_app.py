@@ -5,7 +5,7 @@ from openai import OpenAI
 with st.sidebar:
     st.markdown("<h1 style='text-align:center;font-family:Georgia'> Paper Please! </h1>",unsafe_allow_html=True)
     st.markdown("This app is designed to help folks like you and me \n\
-                write AOR papers easily. \n\)    
+                write AOR papers easily. \n\")    
     st.markdown("<h2 style='text-align:center;font-family:Georgia'>Features</h1>",unsafe_allow_html=True)
     st.markdown(" - 🤑 MoneyMentor FinanceGPT - This Bot is ready to answer your business needs")
     st.markdown("-------")
